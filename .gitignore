@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# keep exe files
+!*.exe
+
+# also keep the .gitignore itself
+!.gitignore
